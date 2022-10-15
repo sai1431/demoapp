@@ -1,0 +1,2 @@
+[server]
+ansible_host=35.78.183.192 ansbile_connection=ssh ansible_user=ec2-user
