@@ -14,5 +14,5 @@
     - name: Deploy static website
       copy:
         src: target/my-app-1.0.0.jar
-        dest: /var/www/html/
+        dest: /opt/apache-tomcat-8.5.83/webapps
 ...
